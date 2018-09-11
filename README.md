@@ -20,3 +20,22 @@ At the top of each file, there is a place for you to comment on the description 
 // Single-line Java comment
 ```
 
+## Problems
+
+### 0-0: Hello World
+
+### 0-1: Haiku
+
+### 0-2: ASCII Art
+
+### 0-3: Travel Agent
+
+### 0-4: Calculator
+
+### 0-5: Personality Quiz
+
+### 0-6: ROT13
+
+### 0-7: For Loop Factorial
+
+### 0-8: Guess the Number
