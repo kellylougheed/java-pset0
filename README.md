@@ -10,9 +10,13 @@ Complete each problem in the appropriately named file (e.g. complete "Problem 0-
 
 At the top of each file, there is a place for you to comment on the description of the program, your name, and the date. Please also add comments throughout your program about what your code is doing if it is not self-explanatory.
 
-```/*
+```
+/*
  * Multi-line Java comment
- */```
+ */
+ ```
 
-```// Single-line Java comment```
+```
+// Single-line Java comment
+```
 
