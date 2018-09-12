@@ -58,11 +58,11 @@ Your tour of the Colosseum in Rome and plane trip to Italy will cost $780 total.
 
 Feel free to briefly research plane trip prices and activities in each country, but also feel free to make them up!
 
-**Challenge**: Allow the user to select multiple activities to do in a country.
+**Challenge**: Allow the user to select multiple activities to do in a country. Hint: you may need to look into [while loops](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html).
 
 ### 0-4: Calculator
 
-Write a program where the user can select a mathematical operation and input two integer. The program should then return the correct answer.
+Write a program where the user can select a mathematical operation and input two integer. The program should then print the correct answer.
 
 Sample program output:
 ```
@@ -78,6 +78,8 @@ Second integer:
 3
 2 + 2 is 5
 ```
+
+**Challenge**: Have your program calculate and print the remainder for division.
 
 **Challenge**: Have your program take in floats instead of integers so that it can more accurately perform division.
 
@@ -112,4 +114,6 @@ y
 
 There are several ways to solve this problem. The most straightforward way is to have the program guess the numbers 1 to 10 in order (totally acceptable); you could also have the computer guess [randomly](https://www.leepoint.net/algorithms/random/random-api.html) (more challenging).
 
-Challenge: Use [binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) to make your program’s guessing more efficient. Instead of offering “yes” or “no” as user responses, you will need to offer “higher,” “lower,” or “correct.” 
+**Challenge**: Use [binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) to make your program’s guessing more efficient. Instead of offering “yes” or “no” as user responses, you will need to offer “higher,” “lower,” or “correct.” 
+
+**Challenge**: Learn about [ArrayLists](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) and use one to keep track of numbers that the computer has guessed so far so that it doesn't repeat any guesses (assuming you are not using binary search).
