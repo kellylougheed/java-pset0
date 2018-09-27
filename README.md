@@ -76,7 +76,7 @@ First integer:
 2
 Second integer:
 3
-2 + 2 is 5
+2 + 3 = 5
 ```
 
 **Challenge**: Have your program calculate and print the remainder for division. (+1 pt)
