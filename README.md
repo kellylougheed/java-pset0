@@ -62,7 +62,7 @@ Feel free to briefly research plane trip prices and activities in each country, 
 
 ### 0-4: Calculator
 
-Write a program where the user can select a mathematical operation and input two integer. The program should then print the correct answer.
+Write a program where the user can select a mathematical operation and input two integers. The program should then print the correct answer.
 
 Sample program output:
 ```
