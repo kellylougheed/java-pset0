@@ -110,6 +110,7 @@ Is the number 3? (y/n)
 n
 Is the number 7? (y/n)
 y
+I won!
 ```
 
 There are several ways to solve this problem. The most straightforward way is to have the program guess the numbers 1 to 10 in order (totally acceptable); you could also have the computer guess [randomly](https://www.leepoint.net/algorithms/random/random-api.html) (more challenging).
