@@ -91,13 +91,13 @@ Here is an [example written in Python](https://repl.it/@kellylougheed/Sorting-Ha
 
 ### 0-6: ROT13
 
-[ROT13](https://en.wikipedia.org/wiki/ROT13) is a cipher that encrypts text by shifting all the letters 13 letters forward on the alphabet. Write a program that takes in plaintext and returns text encrypted in ROT13.
+[ROT13](https://en.wikipedia.org/wiki/ROT13) is a cipher that encrypts text by shifting all the letters 13 letters forward on the alphabet. Write a program that takes in plaintext with the Scanner and returns text encrypted in ROT13.
 
 If you remember the Caesar Cipher problem from CS50, this problem is similar!
 
 ### 0-7: For Loop Factorial
 
-Write a program that takes in an integer and prints its [factorial](https://en.wikipedia.org/wiki/Factorial) after calculating the factorial with a [for loop](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html).
+Write a program that takes in an integer with the Scanner and prints its [factorial](https://en.wikipedia.org/wiki/Factorial) after calculating the factorial with a [for loop](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html).
 
 ### 0-8: Guess the Number
 
