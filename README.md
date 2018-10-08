@@ -87,7 +87,7 @@ Second integer:
 
 Write a personality quiz where you ask the user questions about themselves. Based on the number of “a” answers, “b” answers, “c” answers, or “d” answers (etc), the user gets a different result.
 
-Here is an [example written in Python](https://repl.it/@kellylougheed/Sorting-Hat).
+Here is an [example written in Python](https://repl.it/@kellylougheed/Sorting-Hat). (Note: do not actually write the personality quiz in Python; all solutions should be written in Java.)
 
 ### 0-6: ROT13
 
